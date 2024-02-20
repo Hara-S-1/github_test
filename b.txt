@@ -2,4 +2,5 @@ sample2
 tarou
 goot evening
 hello
+I come from Japan.
 
